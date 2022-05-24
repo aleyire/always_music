@@ -14,11 +14,13 @@ Ya que el caso se trata de un proceso de desarrollo, la  interacción se debe re
 - Propiedades del objeto result y la asincronía en una  consulta
 - Ingresando y consultando datos
 - Actualizando y eliminado datos
-### Comandos
-`npm init`
-`npm i pg`
-`node index.js ingresar '789' maria pintar 4`
-`node index.js consultar '789'`
-`node index.js 'consultar tabla'`
-`node index.js editar '789' 3`
-`node index.js eliminar '789'`
+- 
+### Comandos :notes:
+
+- `npm init`
+- `npm i pg`
+- `node index.js ingresar '789' maria pintar 4`
+- `node index.js consultar '789'`
+- `node index.js 'consultar tabla'`
+- `node index.js editar '789' 3`
+- `node index.js eliminar '789'`
