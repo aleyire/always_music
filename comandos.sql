@@ -10,7 +10,7 @@ CREATE TABLE estudiantes (
 );
 
 -- registrar un nuevo estudiante
- node index.js ingresar '789' kuzy pintar 4 
+ node index.js ingresar '789' maria pintar 4 
 
 -- mostrar un estudiante por el rut
  node index.js consultar '789'
