@@ -15,4 +15,5 @@ Ya que el caso se trata de un proceso de desarrollo, la  interacción se debe re
 - Ingresando y consultando datos
 - Actualizando y eliminado datos
 ### Comandos
-' node index.js ingresar '789' kuzy pintar 4 '
+`node index.js ingresar '789' kuzy pintar 4`
+
