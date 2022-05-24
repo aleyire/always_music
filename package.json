@@ -1,0 +1,14 @@
+{
+  "name": "always-music",
+  "version": "1.0.0",
+  "description": "Aplicación en node que realiza consultas a postgreSQL através del paquete 'pg' el cual realiza las siguientes acciones:\r - Agregar un nuevo estudiante.\r - Consultar los estudiantes registrados.\r - Consultar estudiante por rut.\r - Actualizar la información de un estudiante.\r - Eliminar el registro de un estudiante.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.7.3"
+  }
+}
