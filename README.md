@@ -26,4 +26,4 @@ Ya que el caso se trata de un proceso de desarrollo, la  interacción se debe re
 - `node index.js eliminar '789'`
 
 ### Visualización creación de tabla
-![] (https://github.com/aleyire/always_music/blob/main/img/img-1.png)
+![](https://github.com/aleyire/always_music/blob/main/img/img-1.png)
