@@ -24,3 +24,6 @@ Ya que el caso se trata de un proceso de desarrollo, la  interacción se debe re
 - `node index.js 'consultar tabla'`
 - `node index.js editar '789' 3`
 - `node index.js eliminar '789'`
+
+### Visualización creación de tabla
+![] (https://github.com/aleyire/always_music/blob/main/img/img-1.png)
